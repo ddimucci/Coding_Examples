@@ -1,5 +1,5 @@
 """
-Coding exercise for Gritstone
+Coding exercise for COMPANY X
 15 September 2022
 dimuccidm@gmail.com
 
@@ -345,7 +345,7 @@ def calculate_efficiencies_for_list_of_aa_lists(aa_sets):
 
 
 
-# Fill out Gritstone functions
+# Fill out COMPANY X functions
 def get_codon_for_amino_acids(amino_acids,silent=False,validate=True):
     """
     :param amino_acids: set
