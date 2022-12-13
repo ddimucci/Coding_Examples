@@ -2,6 +2,9 @@
 
 I passed this stage of the interview and progressed to the job talk. 
 
+assignment.py is a script of starter code provided for the challenge.
+assignment_my_answer.py is the code I submitted for examination.
+
 # Below is the coding challenge as presented to me:
 
 Background: the goal is to introduce targeted mutations in a protein by using expanded genetic code, 
